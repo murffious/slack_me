@@ -21,7 +21,7 @@ DONE you are a Slack master.
 BONUS:<br/>
 a.set up your notification setttingswhen you have more time. <br/>
 b.Add UTAH JS channel for more people to help https://slack.utahjs.com/. i.e. have mulitpel channels and toggle them in desktop mode  <br/>
-c. Make a new channel for yoru study group or for group projects. 
+c. Make a new channel for your study group or for group projects. 
 d. add Phone app if desired.  <br/>
 e. play with (in a professional manner please always) emoji, and giphy .. /giphy then the giphy  <br/>
 f. only use @channel and @here very sparingly - you will annoy people if not and that is bad for getting help lol <br/>
