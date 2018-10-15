@@ -5,7 +5,7 @@ The term "Google it" is well understood and now we are going to be saying "Slack
 
 
 
-1. Put a photo and your job title in your profile (just put your desired job title - this is not visible to anyone else but don't put learning jsut put the real title please).
+1. Put a photo and your job title in your profile (just put your desired job title - this is not visible to anyone else but don't put learning just put the real title please).
 
 2. Go look at the Profile of at least 1 other person in the course.
 
