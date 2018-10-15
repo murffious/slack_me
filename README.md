@@ -18,8 +18,8 @@ The term "Google it" is well understood and now we are going to be saying "Slack
 
 DONE you are a Slack master. 
 
-BONUS:
-a.set up your notification setttings later we don't have time now. <br/>
+BONUS:<br/>
+a.set up your notification setttingswhen you have more time. <br/>
 b.Add UTAH JS channel for more people to help https://slack.utahjs.com/. i.e. have mulitpel channels and toggle them in desktop mode  <br/>
 c. Make a new channel for yoru study group or for group projects. 
 d. add Phone app if desired.  <br/>
