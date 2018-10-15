@@ -25,3 +25,4 @@ Your TO DO: set up your notification setttings later we don't have time now.
 Use Slack often.
 Check out MW channel eveyday for instructional staff messages. If I post something in this channel you are respobsible to know it. Any other channel is not with that expectation so don't worry only make sure you keep up with our MW channel and my posts please. 
 Add UTAH JS channel for more people to help. 
+https://slack.utahjs.com/
