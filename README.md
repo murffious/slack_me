@@ -12,7 +12,7 @@ PRE WORK if possible use the APP not the web UI.
 
 4. Send your desired position dream dev job or if not looking for a job, a cool project you want to build with your new skills. 
 send it 5 times 
-![Uploading Screen Shot 2018-10-15 at 10.31.23 AM.png…]()
+<img width="969" alt="screen shot 2018-10-15 at 10 31 23 am" src="https://user-images.githubusercontent.com/25558342/46964619-c6c6ed00-d065-11e8-8c5a-9716d277cbf6.png">
 
 1. 
 Send a Code snippet Javascript
